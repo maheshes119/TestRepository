@@ -22,7 +22,7 @@
  
    <div class="login-container">
  
-       <h3>Enter username and password</h3>
+       <h3>Enter username and password(changes made in branch)</h3>
        <br>
        <!-- /login?error=true -->
        <c:if test="${param.error == 'true'}">
